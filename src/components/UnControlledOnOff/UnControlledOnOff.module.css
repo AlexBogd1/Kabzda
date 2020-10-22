@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    padding: 20px;
+}
+.on {
+    background-color: darkgreen;
+}
+
+.off {
+    background-color: lightcoral;
+}
+
+.circle {
+    display: inline-block;
+    align-self: center;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 20px;
+    height: 20px;
+    border-radius: 15px;
+    border: 1px solid black;
+}

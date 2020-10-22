@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e86a3433-db7c-4dd7-9bb0-dc278b9b043c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gvDeZJc5TuawOSK6R9sUI52RrY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="E:\it-incubator\projects\my-app\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="es6.move.members.recent.items">
+      <recent name="E:\it-incubator\projects\project-one-TypeS\my-app\src\components\Rating\Rating.tsx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\it-incubator\projects\project-one-TypeS\my-app\src\components\Select" />
+      <recent name="E:\it-incubator\projects\project-one-TypeS\my-app\src\components\UncontrolledRating" />
+      <recent name="E:\it-incubator\projects\project-one-TypeS\my-app\src\components\UnControlledOnOff" />
+      <recent name="E:\it-incubator\projects\project-one-TypeS\my-app\src\components\UnControlledAccordion" />
+      <recent name="E:\it-incubator\projects\project-one-TypeS\my-app\src\components\Accordion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build-storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.storybook" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build-storybook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e86a3433-db7c-4dd7-9bb0-dc278b9b043c" name="Default Changelist" comment="" />
+      <created>1598986268909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598986268909</updated>
+      <workItem from="1598986270111" duration="3194000" />
+      <workItem from="1599065430277" duration="5894000" />
+      <workItem from="1599122304986" duration="1417000" />
+      <workItem from="1599164252296" duration="757000" />
+      <workItem from="1599769369532" duration="616000" />
+      <workItem from="1599906378563" duration="24000" />
+      <workItem from="1601058975118" duration="6127000" />
+      <workItem from="1601227762708" duration="10408000" />
+      <workItem from="1601240120143" duration="864000" />
+      <workItem from="1601575098520" duration="74000" />
+      <workItem from="1601575181554" duration="283000" />
+      <workItem from="1601575555462" duration="224000" />
+      <workItem from="1601576302232" duration="40000" />
+      <workItem from="1601576392767" duration="97000" />
+      <workItem from="1601576506010" duration="132000" />
+      <workItem from="1601577365838" duration="4649000" />
+      <workItem from="1601582418016" duration="3251000" />
+      <workItem from="1601589496275" duration="13000" />
+      <workItem from="1602148284723" duration="913000" />
+      <workItem from="1602149797137" duration="705000" />
+      <workItem from="1602150520800" duration="6212000" />
+      <workItem from="1602161395083" duration="17000" />
+      <workItem from="1602181447183" duration="3912000" />
+      <workItem from="1602253645371" duration="23000" />
+      <workItem from="1602618842332" duration="4179000" />
+      <workItem from="1602623513424" duration="19000" />
+      <workItem from="1602670388759" duration="8748000" />
+      <workItem from="1602703426832" duration="3954000" />
+      <workItem from="1602713682341" duration="12000" />
+      <workItem from="1603223103398" duration="1355000" />
+      <workItem from="1603225967816" duration="21000" />
+      <workItem from="1603364382564" duration="2263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603225986715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603225986715" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1603366664444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603366664444" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1603366664444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603366664444" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1603366664444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603366664444" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1603366664444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603366664444" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1601577414461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601577414461" />
+    <state x="1096" y="248" key="run.anything.popup" timestamp="1601233581073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="248" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601233581073" />
+  </component>
+</project>
